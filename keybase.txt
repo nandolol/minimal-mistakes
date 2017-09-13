@@ -1,0 +1,55 @@
+==================================================================
+https://keybase.io/nandolol
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://nandolol.github.io
+  * I am nandolol (https://keybase.io/nandolol) on keybase.
+  * I have a public key ASDLlwWm7CfO9B5MVJ1CbMV7Iv6iYOjbcIAWMZCeMFfl7Qo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120cb9705a6ec27cef41e4c549d426cc57b22fea260e8db70801631909e3057e5ed0a",
+      "host": "keybase.io",
+      "kid": "0120cb9705a6ec27cef41e4c549d426cc57b22fea260e8db70801631909e3057e5ed0a",
+      "uid": "8f8265323bc7a0461505849d0bef5719",
+      "username": "nandolol"
+    },
+    "merkle_root": {
+      "ctime": 1505318914,
+      "hash": "d2edbce578a7e6e3d4d1b4f1acdc22fe1e63babc663f1d9744add84fdb74432e872170099f7b39a91ded9af4f3f521b4ee1e4d960fb453082de714f1b2decc54",
+      "hash_meta": "e8af77ac9561893922f1f9c0576c9a482218268cdac3bbc0d3fe5941862c72df",
+      "seqno": 1384871
+    },
+    "service": {
+      "hostname": "nandolol.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "1.0.27"
+  },
+  "ctime": 1505318946,
+  "expire_in": 504576000,
+  "prev": "32b129c19b7b9907d11aa3b6ea64818166f433951f49e28d9834ec667a67946c",
+  "seqno": 11,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgy5cFpuwnzvQeTFSdQmzFeyL+omDo23CAFjGQnjBX5e0Kp3BheWxvYWTFA0t7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwY2I5NzA1YTZlYzI3Y2VmNDFlNGM1NDlkNDI2Y2M1N2IyMmZlYTI2MGU4ZGI3MDgwMTYzMTkwOWUzMDU3ZTVlZDBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwY2I5NzA1YTZlYzI3Y2VmNDFlNGM1NDlkNDI2Y2M1N2IyMmZlYTI2MGU4ZGI3MDgwMTYzMTkwOWUzMDU3ZTVlZDBhIiwidWlkIjoiOGY4MjY1MzIzYmM3YTA0NjE1MDU4NDlkMGJlZjU3MTkiLCJ1c2VybmFtZSI6Im5hbmRvbG9sIn0sIm1lcmtsZV9yb290Ijp7ImN0aW1lIjoxNTA1MzE4OTE0LCJoYXNoIjoiZDJlZGJjZTU3OGE3ZTZlM2Q0ZDFiNGYxYWNkYzIyZmUxZTYzYmFiYzY2M2YxZDk3NDRhZGQ4NGZkYjc0NDMyZTg3MjE3MDA5OWY3YjM5YTkxZGVkOWFmNGYzZjUyMWI0ZWUxZTRkOTYwZmI0NTMwODJkZTcxNGYxYjJkZWNjNTQiLCJoYXNoX21ldGEiOiJlOGFmNzdhYzk1NjE4OTM5MjJmMWY5YzA1NzZjOWE0ODIyMTgyNjhjZGFjM2JiYzBkM2ZlNTk0MTg2MmM3MmRmIiwic2Vxbm8iOjEzODQ4NzF9LCJzZXJ2aWNlIjp7Imhvc3RuYW1lIjoibmFuZG9sb2wuZ2l0aHViLmlvIiwicHJvdG9jb2wiOiJodHRwczoifSwidHlwZSI6IndlYl9zZXJ2aWNlX2JpbmRpbmciLCJ2ZXJzaW9uIjoxfSwiY2xpZW50Ijp7Im5hbWUiOiJrZXliYXNlLmlvIGdvIGNsaWVudCIsInZlcnNpb24iOiIxLjAuMjcifSwiY3RpbWUiOjE1MDUzMTg5NDYsImV4cGlyZV9pbiI6NTA0NTc2MDAwLCJwcmV2IjoiMzJiMTI5YzE5YjdiOTkwN2QxMWFhM2I2ZWE2NDgxODE2NmY0MzM5NTFmNDllMjhkOTgzNGVjNjY3YTY3OTQ2YyIsInNlcW5vIjoxMSwidGFnIjoic2lnbmF0dXJlIn2jc2lnxEAys1ZeS2OWqwUqL0PrKoZ4P2AG0DQLDw58wbTwDQ2BvFlkTxBRDz6NOn9Iza8D7+MNobAwe5JbgIWH2RLClz8MqHNpZ190eXBlIKRoYXNogqR0eXBlCKV2YWx1ZcQgX86N1+zv5h3e+Rm5tdaUhEO9LZj9ZLtEYQhCZyLhCTKjdGFnzQICp3ZlcnNpb24B
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/nandolol
+
+==================================================================
